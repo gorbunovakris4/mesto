@@ -7,4 +7,4 @@ version 1.0.0
 It is an interactive page you can use to share photos with other students.
 
 ## Technics
-Used technics: html5 + css, GIT
+Used technics: html5 + css, Javascript, GIT
